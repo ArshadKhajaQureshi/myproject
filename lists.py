@@ -1,4 +1,5 @@
 # data type: List , It is used store multiple items in a single variable
+#this is commit changes
 #mutable example
 fruits=["apple", 2 ,3]
 x,y,z=fruits
